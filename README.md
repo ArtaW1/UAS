@@ -2,7 +2,7 @@
 
 Daftar nama anggota :
 
-Husnul Wansyah (21103025)
-Ni Putu Yunita Gauri (21103008)
-Sita Ananda Dwi Febriani (21103022)
-Komang Ayu Sri Iswari (21103001)
+  1.Husnul Wansyah (21103025)
+  2.Ni Putu Yunita Gauri (21103008)
+  3.Sita Ananda Dwi Febriani (21103022)
+  4.Komang Ayu Sri Iswari (21103001)
